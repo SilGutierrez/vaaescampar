@@ -1,0 +1,78 @@
+#img{
+    width: 150px;
+    height: 150px;
+}
+
+.hidden_page{
+    display: none;
+}
+.show_page{
+    display: block;
+}
+
+.logotipo{
+    background-color: green;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    text-emphasis-position: below;
+    font-size: 30xp;
+}
+
+.historia{
+    text-align: center;
+    color:black;
+    font-size: 15px;
+}
+
+.lema{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.logo-img{
+    width: 25%;
+    height: 25%;
+    position:center;
+}
+
+.google.maps inframe{
+    border-bottom-color: aqua;
+}
+
+#login{
+    align-items: center;
+}
+
+.soccer{
+    width: 70%;
+    height: 70%;
+}
+
+.contacform{
+    color:black;
+}
+
+hr{
+    background: blue;
+}
+
+h5{
+    color:black;
+    font-size: 30px;
+}
+
+
