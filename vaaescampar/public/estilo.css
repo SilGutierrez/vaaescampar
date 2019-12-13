@@ -1,78 +1,100 @@
-#img{
+#img {
     width: 150px;
     height: 150px;
 }
 
-.hidden_page{
+.hidden_page {
     display: none;
 }
-.show_page{
+
+.show_page {
     display: block;
 }
 
-.logotipo{
+.logotipo {
     background-color: green;
 }
+.logotipo h2{
+    margin: 0;
+}
 
-h1{
+h1 {
     text-align: center;
     color: black;
     font-size: 15px;
 }
 
-h2{
+h2 {
     color: white;
     text-align: center;
 }
 
-h3{
+h3 {
     text-align: center;
     text-emphasis-position: below;
     font-size: 30xp;
 }
 
-.historia{
+.historia {
     text-align: center;
-    color:black;
+    color: black;
     font-size: 15px;
 }
 
-.lema{
+.lema {
     text-align: center;
     color: black;
     font-size: 20px;
 }
 
-.logo-img{
+.logo-img {
     width: 25%;
     height: 25%;
-    position:center;
+    position: center;
 }
 
-.google.maps inframe{
+.google.maps inframe {
     border-bottom-color: aqua;
 }
 
-#login{
+#login {
     align-items: center;
 }
 
-.soccer{
+.soccer {
     width: 70%;
     height: 70%;
 }
 
-.contacform{
-    color:black;
+.contacform {
+    color: black;
 }
 
-hr{
+hr {
     background: blue;
 }
 
-h5{
-    color:black;
+h5 {
+    color: black;
     font-size: 30px;
 }
 
+.input_content {}
 
+.commentary-data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.8vh;
+    margin-bottom: 1vh;
+    padding: .2vh;
+}
+
+.commentary-data-user {
+    font-size: 1.5vh;
+    font-weight: bold;
+}
+
+.commentary-data-content {
+    padding-left: 2vh;
+}
